@@ -1,7 +1,7 @@
 # GIT
 Um pouco sobre git para me guiar
 
-##1- Git e Versionamento
+1- Git e Versionamento
 
 ---------- Versionamento ----------
 
